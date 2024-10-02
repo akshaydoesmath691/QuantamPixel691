@@ -1,4 +1,26 @@
-title: Akshay Sant
-show_downloads: true
-theme: jekyll-theme-minimal
+title: "Your Name"
+description: "Welcome to my personal website."
+locale: "en-US"
+url: "https://<yourusername>.github.io"
+baseurl: ""
+theme_skin: "dark"
+
+author:
+  name: "Your Name"
+  avatar: "/assets/images/avatar.jpg" # Place your photo here
+  bio: "A brief bio about yourself."
+  location: "Your Location"
+  email: "youremail@example.com"
+
+# Social links
+social:
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/yourusername"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://linkedin.com/in/yourprofile"
+  - label: "Resume"
+    icon: "fas fa-file-alt"
+    url: "/assets/files/Your_CV.pdf"
 
